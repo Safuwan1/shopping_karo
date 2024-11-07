@@ -1,0 +1,8 @@
+.filter-option {
+  margin: 10px 0;
+  font-size: 16px;
+}
+
+.filter-option input {
+  margin-right: 8px;
+}
